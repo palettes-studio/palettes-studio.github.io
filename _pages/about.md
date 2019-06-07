@@ -6,10 +6,10 @@ modified: 2019-06-07
 search: true
 toc: true
 header:
- overlay_image: /assets/images/LAB_CONTEXT.png
- actions:
-  -label: "GITHUB"
-   url: "https://github.com/labcontext"
+  overlay_image: /assets/images/LAB_CONTEXT.png
+  actions:
+   -label: "GITHUB"
+     url: "https://github.com/labcontext"
 ---
 
 ## 랩 소개
