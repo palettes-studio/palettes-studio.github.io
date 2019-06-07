@@ -4,6 +4,8 @@ title: "About"
 excerpt: "About Me"
 modified: 2019-06-07
 search: true
+header:
+  image: /assets/images/LAB_CONTEXT.png
 ---
 
 ## 랩 소개
