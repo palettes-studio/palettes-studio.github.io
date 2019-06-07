@@ -1,4 +1,6 @@
 ---
+author_profile:true
+sidebar_main: true
 permalink: /about/
 title: "About"
 excerpt: "About Me"
