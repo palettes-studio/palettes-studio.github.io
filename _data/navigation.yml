@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Meeting_notes"
+    url: /meeting_notes/
   - title: "Category"
     url: /categories/
     
