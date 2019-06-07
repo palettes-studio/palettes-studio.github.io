@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "CONTEXT"
-  avatar           : #"/assets/images/Crimson.png"
+  avatar           : "/assets/images/Crimson.png"
   bio              : "랩 맥락은 Image caption, text to image GAN 분야에 관심을 갖고 연구하는 연구그룹입니다."
   location         : "한국인공지능연구소"
   email            :
