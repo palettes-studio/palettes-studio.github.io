@@ -304,3 +304,15 @@ defaults:
       classes: wide
       author_profile: true
       
+# _posts/blogging
+  - scope:
+      path: "_posts/text2img"
+      type: posts
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      comments: true
+      share: true
+      search: true
+      related: true
