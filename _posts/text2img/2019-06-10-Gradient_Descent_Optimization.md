@@ -1,12 +1,12 @@
 ---
-title: "[Text2img PART2 Prior Knowledge] Gradient_Descent_Optimization"
+title: "[Text2img PART2 Prior Knowledge] Gradient Descent Optimization"
 excerpt: "2019. 06. 10.  Gradient_Descent_Optimization 소개"
 search: true
 categories: 
   - text2img
 ---
 
-#  Gradient Descent Optimization Algorithms 
+## Gradient Descent Optimization Algorithms 
 
 <p align="center">
    <img src="https://user-images.githubusercontent.com/26568793/57982028-60ca9a00-7a7a-11e9-8f17-2611c1756718.png">
@@ -22,7 +22,7 @@ Neural network의 weight를 조절하는 과정에서 사용하는 방법으로,
 
 ------
 
-### SGD(Stochastic  Gradient Descent)
+### (1)SGD(Stochastic  Gradient Descent)
 <p align="center">
    <img src="https://user-images.githubusercontent.com/26568793/57982033-72ac3d00-7a7a-11e9-8787-87d6d015ce45.png">
 </p>
@@ -35,7 +35,7 @@ Neural network의 weight를 조절하는 과정에서 사용하는 방법으로,
 
 ------
 
-### [Adam](https://dalpo0814.tistory.com/29)
+### (2)[Adam](https://dalpo0814.tistory.com/29)
 
 '잘 모르겠으면 그냥 Adam을 써라'에서 자주 듣는 Adam이다. 
 
