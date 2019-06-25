@@ -1,3 +1,10 @@
+---
+title: "[Text2img PART3] Prior Test"
+excerpt: "2019. 06. 25.  이전 연구"
+search: true
+categories: 
+  - text2img
+---
 # 이전 연구 및 발생 이슈
 
 2기에서 진행한 내용은 다음과 같다. mscoco dataset(caption과 대응하는 이미지)를 이용하여 학습을 진행한다. <https://github.com/chen0040/keras-text-to-image> 해당 코드를 기반으로 테스트를 진행. 
