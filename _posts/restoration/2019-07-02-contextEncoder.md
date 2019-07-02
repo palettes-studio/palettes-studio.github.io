@@ -1,5 +1,5 @@
 ---
-title: "[고문서복원]Introduction"
+title: "[고문서복원]Context Encoder 논문리딩"
 excerpt: "2019. 06. 26.  Intro"
 search: true
 categories: 
