@@ -1,3 +1,10 @@
+---
+title: "[고문서복원]Introduction"
+excerpt: "2019. 06. 26.  Intro"
+search: true
+categories: 
+  - restoration
+---
 ## Context encoder (한글해석)
 
 [논문주소](https://arxiv.org/pdf/1604.07379.pdf)
