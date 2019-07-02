@@ -1,6 +1,4 @@
-User-agent: Googlebot
-User-agent: DAUMOA
-User-agent: NaverBot
+User-agent: *
 Allow: /
 
 Sitemap: http://labcontext.github.io/sitemap.xml
