@@ -84,6 +84,7 @@ header:
   
 - **실험 결과 공유**
   수집된 데이터셋과 context encoder 베이스 라인으로 center masking을 이용하여 train 진행 
+  
   ![image](https://user-images.githubusercontent.com/26568793/61384670-061fb400-a8ec-11e9-82bb-b40d27cd9270.png)
   
 ------
