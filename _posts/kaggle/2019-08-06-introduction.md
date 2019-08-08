@@ -1,18 +1,15 @@
 ---
-title: "[Kaggle] Kaggle 3rd 대회"
+title: "[Kaggle] 2019 3rd ML month with KaKR"
 excerpt: "2019. 08. 08. kaggle 3rd 대회 준비록"
 search: true
 categories: 
   - kaggle
 ---
 
-### 2019 3rd ML month with KaKR
-
 *현재 9위 / 최고 7위*
 
-자동차 이미지 데이터셋을 이용한 자동차 차종 분류
+[자동차 이미지 데이터셋을 이용한 자동차 차종 분류](https://www.kaggle.com/c/2019-3rd-ml-month-with-kakr/overviewv)
 
-[링크](https://www.kaggle.com/c/2019-3rd-ml-month-with-kakr/overview)
 우리가 살면서 갖고 싶은게 여러 가지가 있지만, 집 다음으로 보통 자동차 일 것입니다. 
 우리 주위에서 흔히 볼 수 있고, 편리한 교통 수단 중에 하나입니다. 
 전 세계적으로 그 수는 무려 10억대가 넘고, 그 종류는 수백, 수천 가지 이상 된다고 합니다.
