@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "LAB CONTEXT"
+title                    : "Dominote"
 title_separator          : "-"
-name                     : "context"
-description              : "맥락랩 활동 블로그."
+name                     : "Domirae"
+description              : "랩노트 작성하기"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,10 +106,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "CONTEXT"
+  name             : "Domirae"
   avatar           : "/assets/images/Crimson.png"
-  bio              : "랩 맥락은 Image caption, text to image GAN 분야에 관심을 갖고 연구하는 연구그룹입니다."
-  location         : "한국인공지능연구소"
+  bio              : "인공지능을 공부하는 학생"
+  location         : "대학원"
   email            :
   links:
     - label: "Email"
@@ -306,7 +306,7 @@ defaults:
       
 # _posts/test2img
   - scope:
-      path: "_posts/text2img"
+      path: "_posts/image-inpainting"
       type: posts
     values:
       layout: single
@@ -319,7 +319,7 @@ defaults:
       
 # _posts/restoration
   - scope:
-      path: "_posts/restoration"
+      path: "_posts/notes"
       type: posts
     values:
       layout: single
@@ -332,7 +332,7 @@ defaults:
       
 # _posts/kaggle
   - scope:
-      path: "_posts/kaggle"
+      path: "_posts/etc"
       type: posts
     values:
       layout: single
