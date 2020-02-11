@@ -11,6 +11,7 @@ header:
 ## 'Palettes Studio'
 
 
-*G마켓 여행 공모전 보러가기*
-{% include youtube.html id=MiXGeE4bHjU %}
+*G마켓 여행 공모전*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ MiXGeE4bHjU }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
