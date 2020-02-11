@@ -1,9 +1,9 @@
 ---
-title: "[Text2img PART2 Prior Knowledge] Word Embedding"
-excerpt: "2019. 06. 10.  WordEmbedding 소개"
+title: "What is Word Embedding"
+excerpt: "2020. 02. 11.  WordEmbedding 소개"
 search: true
 categories: 
-  - text2img
+  - notes
 ---
 프로젝트에서 사용할 데이터는 사진과 텍스트 데이터이다. 하지만 딥러닝 모델은 수치형 텐서만을 이용하기 때문에 텍스트 원본을 입력으로 사용할 수 없다. 따라서 텍스트 데이터를 수치형 텐서로 변경하는 과정이 필요하다. 
 **PART3**에서 볼 수 있지만 기존의 text2image 모델에서 텍스트 데이터를 처리하기 위해 단어 임베딩을 주로 사용한다. 하지만 이로 인해 테스트에서 이슈가 발생하게된다. 해당 이슈 내용은 **PART4**에서 확인 가능하다.  그 이전에 기존 text2image에서 사용한 단어 임베딩에 대해 먼저 이해해보려한다. 
