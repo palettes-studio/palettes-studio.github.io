@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://labcontext.github.io/sitemap.xml
+Sitemap: http://dominote.github.io/sitemap.xml
