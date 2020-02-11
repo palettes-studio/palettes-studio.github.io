@@ -1,9 +1,9 @@
 ---
-title: "[Text2img PART2 Prior Knowledge] Gradient Descent Optimization"
-excerpt: "2019. 06. 10.  Gradient_Descent_Optimization 소개"
+title: "What is Gradient Descent Optimization"
+excerpt: "2020. 02. 11.  Gradient_Descent_Optimization 소개"
 search: true
 categories: 
-  - text2img
+  - notes
 ---
 
 ## Gradient Descent Optimization Algorithms 
