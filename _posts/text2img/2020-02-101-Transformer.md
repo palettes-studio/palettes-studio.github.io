@@ -1,9 +1,9 @@
 ---
-title: "[Text2img PART2 Prior Knowledge] Transformer"
-excerpt: "2019. 06. 26.  Transformer 소개"
+title: "What is Transformer"
+excerpt: "2020. 02. 11.  Transformer 소개"
 search: true
 categories: 
-  - text2img
+  - notes
 ---
 
 part4에 등장하는 USE의  Transformer Encoder을 이해하기 위한 사전 지식 문서
