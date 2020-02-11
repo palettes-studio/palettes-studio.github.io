@@ -1,9 +1,9 @@
 ---
-title: "[Text2img PART2 Prior Knowledge] Normalization"
-excerpt: "2019. 06. 10.  Normalization 소개"
+title: "What is Normalization"
+excerpt: "2020. 02. 11.  Normalization 소개"
 search: true
 categories: 
-  - text2img
+  - notes
 ---
 #### 1. Batch normalization 
 
