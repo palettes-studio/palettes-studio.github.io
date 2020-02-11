@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Dominote"
+title                    : "Palettes Studio"
 title_separator          : "-"
-name                     : "Domirae"
-description              : "랩노트 작성하기"
+name                     : "Palettes Studio"
+description              : "재미있는 창작 활동을 하는 스튜디오입니다."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,14 +106,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Domirae"
+  name             : "Palettes Studio"
   avatar           : "/assets/images/Crimson.png"
-  bio              : "인공지능을 공부하는 학생"
-  location         : "대학원"
+  bio              : "다양한 색깔을 찾다니는 유랑단, 팔레트 스튜디오"
+  location         : "Palettes Studio"
   email            :
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "ppalettestudio@gmail.com"
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
