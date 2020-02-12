@@ -5,7 +5,7 @@ excerpt: "About Me"
 modified: 2020-02-11
 search: true
 header:
-  image: /assets/images/banner.png
+  image: /assets/images/animation.gif
 ---
 
 ## 'Palettes Studio'
